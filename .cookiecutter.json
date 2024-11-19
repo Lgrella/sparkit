@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Lgrella",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "lmgrella13@gmail.com",
+  "friendly_name": "Sparkit Temp",
+  "github_user": "lgrella",
+  "license": "MIT",
+  "package_name": "sparkit-temp",
+  "project_name": "sparkit-temp",
+  "version": "0.0.0"
+}
